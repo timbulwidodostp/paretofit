@@ -1,0 +1,5 @@
+D 'paretofit': Fitting a Pareto (Type I) distribution by ML to unit record data Use paretofit With STATA 19
+D
+F paretofit.ado
+F paretofit_ll.ado
+F paretofit.hlp
